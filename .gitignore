@@ -1,0 +1,8 @@
+# Node
+node_modules/
+
+# ClojureScript
+out/
+target/
+.cpcache/
+.shadow-cljs/
